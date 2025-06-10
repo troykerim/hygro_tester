@@ -1,0 +1,7 @@
+hardware/hygro_proj
+software/*
+!software/hygro_test
+software/hygro_test/*
+!software/hygro_test/src
+software/hygro_test/src/Xilinx.spec
+software/hygro_test/src/lscript.ld
